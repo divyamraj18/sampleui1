@@ -161,6 +161,10 @@ class Home extends StatelessWidget {
                     OfferWidget(),
                     OfferWidget(),
                     OfferWidget(),
+                    OfferWidget(),
+                    OfferWidget(),
+                    OfferWidget(),
+                    OfferWidget(),
 
 
                   ],
